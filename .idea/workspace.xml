@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0386655-9858-415f-97b2-c3888d7070e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/#Source/img/anonym.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freelancer.flex/img/anonym.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freelancer.flex/img/anonym.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/#Source/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/#Source/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/#Source/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/#Source/scss/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/freelancer.flex/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/freelancer.flex/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/freelancer.flex/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/freelancer.flex/css/style.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/freelancer.flex/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/freelancer.flex/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,13 +25,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rKi5YSnSN3sHC0ITBiNeCuMXGg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../webdev.youtube.laravel" />
@@ -51,6 +58,8 @@
       <updated>1618730999773</updated>
       <workItem from="1618731000962" duration="2301000" />
       <workItem from="1618733407082" duration="8129000" />
+      <workItem from="1618903481088" duration="1848000" />
+      <workItem from="1618905780489" duration="5038000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1618736920569</created>
@@ -73,6 +82,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1" />
     <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
